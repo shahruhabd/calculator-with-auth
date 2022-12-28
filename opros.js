@@ -46,7 +46,7 @@ function submitForm() {
     checkAge()
     isStudent()
     if (ageBool == true && nameBool == true && studBool == true) {
-        window.location.href = 'http://127.0.0.1:5500/calc.html'
+        window.location.href = 'https://shahruhabd.github.io/calc.html'
     }
     
 }
